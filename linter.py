@@ -22,7 +22,7 @@ class JsModuleTest(NodeLinter):
     cmd = 'system-test'
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
-    version_requirement = '>= 1.0.0'
+    version_requirement = '>= 0.1.0'
     regex = r''
     multiline = False
     line_col_base = (1, 1)
