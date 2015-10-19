@@ -1,0 +1,10 @@
+SublimeLinter-contrib-js-module-test
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to js-module-test.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Damien/SublimeLinter-contrib-js-module-test
